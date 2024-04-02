@@ -1,6 +1,6 @@
 
-import { Details } from "./details.js";
-import { Ui } from "./ui.js";
+import { Details } from "./Details.module.js";
+import { Ui } from "./Ui.module.js";
 
 
 

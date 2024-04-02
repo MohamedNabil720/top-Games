@@ -1,4 +1,4 @@
-import { Ui } from "./ui.js"
+import { Ui } from "./Ui.module.js"
 
 
 

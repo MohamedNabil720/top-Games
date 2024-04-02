@@ -1,6 +1,6 @@
-import { Home } from "./Home.js";
-import { Details } from "./details.js";
-import { Ui } from "./ui.js";
+import { Home } from "./Home.module.js";
+import { Details } from "./Details.module.js";
+import { Ui } from "./Ui.module.js";
 
 const home = new Home;
 const ui = new Ui;
